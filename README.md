@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuka-virajith-599ba42a4/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virajith404@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=6366f1&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=madhukavirajith&label=Profile+Views&color=6366f1&style=for-the-badge)](https://github.com/madhukavirajith)
 
 </div>
 
@@ -21,7 +21,7 @@ const madhuka = {
   name:       "Madhuka Virajith",
   location:   "Sri Lanka 🇱🇰",
   role:       "Full Stack Developer",
-  education:  "Computer Science Undergraduate",
+  education:  "Software Engineering Undergraduate",
   passion:    ["Web Apps", "Mobile Apps", "Desktop Tools", "Clean Code"],
   contact:    "virajith404@gmail.com",
   funFact:    "I debug with coffee ☕ and solve problems with persistence 💪"
@@ -87,12 +87,12 @@ const madhuka = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=madhukavirajith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukavirajith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukavirajith&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -102,7 +102,7 @@ const madhuka = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=madhukavirajith&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
 
 </div>
 
