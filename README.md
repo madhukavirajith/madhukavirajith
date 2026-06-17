@@ -83,19 +83,13 @@ const madhuka = {
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhukavirajith&theme=tokyonight" width="100%"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhukavirajith&theme=tokyonight" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhukavirajith&theme=tokyonight" height="180"/>
-
 <br/>
-
 <img src="https://streak-stats.demolab.com?user=madhukavirajith&theme=tokyonight&hide_border=true" height="180"/>
-
 </div>
 
 ---
