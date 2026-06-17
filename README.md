@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhuka%20Virajith&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%7C%20Mobile%20%7C%20Desktop%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=👋+Hey+there!+Welcome+to+my+GitHub;💡+Turning+ideas+into+real+software;🌐+Web+%7C+📱+Mobile+%7C+🖥️+Desktop+Dev;🚀+Always+building%2C+always+learning!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=650&height=50&lines=Full+Stack+Developer;Mobile+%26+Desktop+Developer;MERN+Stack+Enthusiast;Java+Spring+Boot+%7C+FastAPI+%7C+React;Always+Building%2C+Always+Learning!" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 ```typescript
 const madhuka = {
   name:       "Madhuka Virajith",
-  location:   "Sri Lanka 🇱🇰",
+  location:   "Colombo,Sri Lanka",
   role:       "Full Stack Developer",
   education:  "Software Engineering Undergraduate",
   passion:    ["Web Apps", "Mobile Apps", "Desktop Tools", "Clean Code"],
@@ -87,12 +87,14 @@ const madhuka = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=madhukavirajith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukavirajith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhukavirajith&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhukavirajith&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhukavirajith&theme=tokyonight" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukavirajith&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=madhukavirajith&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -102,7 +104,7 @@ const madhuka = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=madhukavirajith&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=madhukavirajith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" width="100%"/>
 
 </div>
 
